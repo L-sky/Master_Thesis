@@ -1,3 +1,9 @@
+## Supplementary materials for the Master Thesis "Predicting Properties of Crystals" 
+
+Read thesis at http://er.ucu.edu.ua/handle/1/2242
+
+For the version of repo at the time of writing click [here!](https://github.com/L-sky/Master_Thesis/tree/f7db8ef237325e55e3705691c0555ee8358cac87) 
+
 ## Installation
 
 Create conda environment
